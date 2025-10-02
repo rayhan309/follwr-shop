@@ -25,3 +25,12 @@
   max-width: 390px;
   height: 490px;
 }
+
+/* main section styles area */
+
+.section-1-div-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  margin-top: 50px;
+}
