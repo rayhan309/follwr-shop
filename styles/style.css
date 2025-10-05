@@ -52,6 +52,13 @@
   height: auto;
  }
 
+/* section 4 */
+.section-4-div-container{
+  justify-content: space-between;
+}
+/* .section-4-div-2 {
+  pa
+} */
 
 /* layuot styles area */
 
