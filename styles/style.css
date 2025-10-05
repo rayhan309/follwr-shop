@@ -56,9 +56,24 @@
 .section-4-div-container{
   justify-content: space-between;
 }
-/* .section-4-div-2 {
-  pa
-} */
+
+
+/* footer google font styles area  */
+
+
+.montserrat-mama {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.lobster-font {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 
 /* layuot styles area */
 
